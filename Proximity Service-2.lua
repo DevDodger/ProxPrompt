@@ -1,4 +1,3 @@
--- Made by AlgyLacey, please do not use elsewhere. :)
 local RS = game:GetService("RunService")
 local Player = game.Players.LocalPlayer
 local Cam = workspace.CurrentCamera
